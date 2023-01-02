@@ -1,0 +1,9 @@
+NAME-Ashik Bangari
+STUDENT ID-CSE1902
+BATCH ID-CSE19
+ROLL NUMBER-2
+Course=Programming in python(C001)	marks=86	Grade=B		Pass/Fail status=Passed
+Course=Engineering Physics(C002)	marks=85	Grade=B		Pass/Fail status=Passed
+Course=Data Structures Algorithms(C003)	marks=76	Grade=C		Pass/Fail status=Passed
+OVER ALL GRADE=B
+PASS STATUS=Passed
